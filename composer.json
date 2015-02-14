@@ -1,0 +1,8 @@
+{
+	"name": "Vibius - Development Kit",
+	"autoload": {
+		"psr-4": {
+			"Vibius\\Types\\": "./Types"
+		}
+	}
+}
